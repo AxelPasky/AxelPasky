@@ -118,15 +118,6 @@ A complete web platform for booking sports fields, built as a monolithic applica
 
 ---
 
-## 📊 My GitHub Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AxelPasky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelPasky&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to connecting with other developers and enthusiasts. Feel free to reach out!
@@ -140,6 +131,3 @@ I'm always open to connecting with other developers and enthusiasts. Feel free t
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AxelPasky&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visitor counter" />
-</p>
