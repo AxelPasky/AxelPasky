@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About Me
 
-My journey into the programming world began with a curiosity for video games, which led me to teach myself Java. This spark of interest quickly grew into a full-blown passion for software development. To turn this passion into a profession, I enrolled in the **ITA ACADEMY bootcamp**, an experience that has equipped me with the skills to build robust web applications and has opened my eyes to a universe of technological possibilities.
+My journey into the programming world began with a curiosity for video games, which led me to teach myself Java. This spark of interest quickly grew into a full-blown passion for software development.
 
 - 🚀 I love building and architecting backend systems, primarily with **PHP/Laravel**.
-- 🔭 I'm currently creating full-stack applications using **Laravel** for the API and **React** for the frontend.
+- 🔭 I'm currently creating full-stack applications using **Laravel** for the API and **React** or **JavaScript** for the frontend.
 - 🌱 I'm always learning! My current focus is on deepening my knowledge of **Go** and **Docker** to explore the world of microservices.
 - 🤝 I'm open to collaborating on **open source projects** to learn from others and contribute to the community.
 
@@ -21,63 +21,69 @@ My journey into the programming world began with a curiosity for video games, wh
 
 ## ✨ My Featured Projects
 
-Here are a couple of projects I'm particularly proud of.
+Here are the projects I'm most proud of. They showcase my ability to build both monolithic and decoupled applications.
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### API Fields Booking
-[![REST API Project](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)](https://github.com/AxelPasky/5.1_API_Fields_Booking)
+### Fields Booking (Laravel App)
+[![Monolith Project](https://img.shields.io/badge/Type-Monolith-blue?style=for-the-badge)](https://github.com/AxelPasky/field-booking-laravel)
 
-A robust REST API for managing and booking sports fields. Designed to be the core of a modern, decoupled application.
-
-<!-- 
-  TODO: Add a GIF here showcasing the API in action with a tool like Postman or Insomnia.
-  <p align="center">
-    <img src="URL_OF_YOUR_GIF_HERE" alt="API Fields Booking Demo" width="400"/>
-  </p>
--->
+A complete web platform for booking sports fields, built as a monolithic application with Laravel.
 
 **Key Features:**
-- **Secure Authentication:** Built with OAuth2 using Laravel Passport for secure, token-based access.
-- **Containerized Environment:** Fully configured with Docker for consistent development and easy deployment.
-- **Scalable Architecture:** Deployed on Railway, ready to connect with any frontend client.
+- Full user authentication and profile management.
+- Interactive booking system.
+- Admin dashboard for management.
 
 **Tech Stack:**
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="https://laravel.com/docs/blade" target="_blank"><img src="https://img.shields.io/badge/Blade-F7523F?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Fields Booking (Web App)
-[![Web Project](https://img.shields.io/badge/Status-Completed-green?style=for-the-badge)](https://github.com/AxelPasky/4.1_Fields_Booking)
+### Fields Booking API
+[![API Project](https://img.shields.io/badge/Type-API-yellow?style=for-the-badge)](https://github.com/AxelPasky/field-booking-api)
 
-A complete web platform for booking sports fields, built as a monolithic application with a focus on user experience.
-
-<!-- 
-  TODO: Add a GIF here showcasing the web application's user interface and features.
-  <p align="center">
-    <img src="URL_OF_YOUR_GIF_HERE" alt="Fields Booking Demo" width="400"/>
-  </p>
--->
+A robust REST API to manage sports fields bookings. Designed to be the core of a modern, decoupled application.
 
 **Key Features:**
-- **Full User Workflow:** Complete registration, login, and profile management system.
-- **Interactive Booking System:** Allows users to view availability and book fields in real-time.
-- **Admin Dashboard:** A dedicated interface for administrators to manage users, fields, and bookings.
+- Secure OAuth2 authentication with Laravel Passport.
+- Fully containerized with Docker.
+- Deployed on Railway, ready for any client.
 
 **Tech Stack:**
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Blade-F7523F?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### Fields Booking UI
+[![Frontend Project](https://img.shields.io/badge/Type-Frontend-green?style=for-the-badge)](https://github.com/AxelPasky/field-booking-ui)
+
+A dedicated frontend client that consumes the Fields Booking API to provide a reactive user experience.
+
+**Key Features:**
+- Dynamic interface built with JavaScript.
+- Consumes a live, deployed REST API.
+- Modern, responsive design.
+
+**Tech Stack:**
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
 </p>
 
 </td>
@@ -90,31 +96,40 @@ A complete web platform for booking sports fields, built as a monolithic applica
 
 ### Core Strengths
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
 </p>
 
 ### Familiar With & Exploring
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 </p>
+
+---
+
+## 📚 Learning & Bootcamp Projects
+
+This is a collection of other repositories from my bootcamp and personal learning journey.
+
+- **MongoDB Project:** [AxelPasky/2.3_MongoDB](https://github.com/AxelPasky/2.3_MongoDB)
+- **PHP Layouts:** [AxelPasky/1.4_Layout-PHP](https://github.com/AxelPasky/1.4_Layout-PHP), [AxelPasky/1.2_Layout-PHP](https://github.com/AxelPasky/1.2_Layout-PHP)
+<!-- Add other repositories here -->
 
 ---
 
@@ -130,4 +145,3 @@ I'm always open to connecting with other developers and enthusiasts. Feel free t
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
